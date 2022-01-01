@@ -1,2 +1,2 @@
 # odin-recipe
- Basic html webpage, no css styling, for educational purpose
+ Basic html webpage, basic css styling, for educational purpose
